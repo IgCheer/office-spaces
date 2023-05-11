@@ -878,7 +878,7 @@ body {
     
 }
 .simple-rating::before {
-    content: "в…в…в…в…в…";
+    content: "★★★★★";
     display: block;
 }
 .simple-rating__items {
@@ -908,7 +908,7 @@ body {
     color: #d7c3a2;
 }
 .simple-rating__label::before {
-    content: "в…";
+    content: "★";
     display: block;
     transition: color 0.3s ease 0s;
 }
